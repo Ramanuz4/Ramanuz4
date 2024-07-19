@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a passionate student at Royal Global Universit
 - **Version Control**: Git, GitHub
 
 ## 📫 How to Reach Me
-- **Email**: ramanuzkashyap4@gmail.com
-- **LinkedIn**: [Ramanuz Kashyap](www.linkedin.com/in/ramanuz-kashyap)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanuzkashyap4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramanuz-kashyap/)
 
 ## 📈 GitHub Stats
 ![Ramanuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramanuz4&show_icons=true&theme=radical)
