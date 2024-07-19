@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Ramanuz Kashyap! 👋
 
-<!--
-**Ramanuz4/Ramanuz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate student at Royal Global University, currently diving deep into the world of full-stack development. Here's a bit about me and what I'm working on:
 
-Here are some ideas to get you started:
+## 🔭 About Me
+- 🎓 First-year student at **Royal Global University**.
+- 🌱 Currently learning **JavaScript** to enhance my web development skills.
+- 💻 Proficient in **HTML** and **CSS**.
+- 🤔 Interested in exploring more about front-end and back-end technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Front-End**: HTML, CSS, JavaScript (in progress)
+- **Version Control**: Git, GitHub
+
+## 📫 How to Reach Me
+- **Email**: ramanuzkashyap4@gmail.com
+- **LinkedIn**: [Ramanuz Kashyap](www.linkedin.com/in/ramanuz-kashyap)
+
+## 📈 GitHub Stats
+![Ramanuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramanuz4&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanuz4&layout=compact&theme=radical)
+
+Feel free to check out my repositories and connect with me!
+
+---
+
+*Let's build something amazing together!*
