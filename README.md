@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I'm a passionate student at Royal Global Universit
 - 🤔 Interested in exploring more about front-end and back-end technologies.
 
 ## 🛠️ Technologies & Tools
-- **Front-End**: HTML, CSS, JavaScript (in progress)
-- **Version Control**: Git, GitHub
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20(in%20progress)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📫 How to Reach Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanuzkashyap4@gmail.com)
