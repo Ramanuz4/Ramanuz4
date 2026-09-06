@@ -124,8 +124,8 @@ Programming             █████████████████░�
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramanuz4&show_icons=true&theme=radical&hide_border=true" alt="Ramanuz's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanuz4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  ![Ramanuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramanuz4&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanuz4&layout=compact&theme=radical)
 </p>
 
 ---
