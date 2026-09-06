@@ -30,7 +30,6 @@ My main focus right now is **game development**, especially with Unreal Engine.
 ### Engines & Tools
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-0E0E0E?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blueprints](https://img.shields.io/badge/UE5%20Blueprints-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -40,7 +39,6 @@ My main focus right now is **game development**, especially with Unreal Engine.
 - ⚔️ **Quick Draw Katana** — reaction-based combat game
 - 🏃 **Mash Run** — fast-paced racing game built around alternating inputs
 - 💎 **Diamond Plateau** — rage/platformer game
-- 🍳 **Kitchen Chaos** — cooperative-style cooking game inspired by chaotic kitchen gameplay
 - 🏃‍♂️ **Endless Runner** — an endless runner project inspired by games like Subway Surfers
 - 🤖 **R.A.V.N. Protocol** — a story-driven game project currently being developed
 
