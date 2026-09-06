@@ -122,10 +122,12 @@ Programming             █████████████████░�
 ---
 
 ## 📈 GitHub Stats
-![Ramanuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramanuz4&show_icons=true&theme=radical)
+
+![Ramanuz's GitHub Stats](./profile/stats.svg)
 
 ## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanuz4&layout=compact&theme=radical)
+
+![Ramanuz's Top Languages](./profile/top-langs.svg)
 
 ---
 
